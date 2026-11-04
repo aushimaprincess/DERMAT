@@ -1,0 +1,32 @@
+VITILIGO
+(Shvitra)
+ICD 10: L80
+ICD 11: EA80.0
+ICD 11TM 2 code – SN4D
+National Ayurveda Morbidity Code
+ED-5 वविरिठः
+ED-5.1 िावतक-वविरिठः
+ED-5.2 पवैवत्क-वविरिठः/दकलासठः
+ED-5.3 कफजवविरिठः/दकलासठः
+ED-5.4 रक्तजवविरिठः-िारुणठः
+ED-5.5 मांसजवविरिठः-चारुण
+ED-5.6 मतेियोजवविरिठः
+ED-5.7 असा्ध्दकलास
+CASE DEFINITION:1, 2, 3, 4
+Vitiligo is a chronic, acquired autoimmune skin disorder characterized by well-demarcated
+hypopigmented or depigmented macules and patches resulting from the selective destruction
+of melanocytes in the epidermis. It may affect the skin, mucous membranes, and hair follicles,
+and can be associated with systemic autoimmune conditions such as thyroiditis, uveitis, and
+sensorineural hearing loss.
+Before adressing vitiligo, it is important to understand the basic target cell that is affected
+by the disease and for that a basic overview of the melanin pathway is essential. Melanin is
+formed from the essential amino acids tyrosine and phenylalanine through a series of enzymatic
+steps in the liver and skin. Tyrosine is formed in the liver by the hydroxylation of the essential
+amino acid phenylalanine under the influence of phenylalanine hydroxylase which is in turn
+converted to DOPA and further into the pigment under the influence of tyrosinase enzyme (Fig.
+1). The melanin is made within the melanosomes which are of two types —eumelanosomes
+(containing eumelanin), or pheomelanosomes (containing pheomelanin). These melanosomes
+pass into the dendritic processes of the melanocyte to be further transferred into neighboring
+keratinocytes.
+Fig 1 Pathway of Melanogenesis
+Standard Treatment Guidelines in Ayurveda on Dermatological Disorders 115
