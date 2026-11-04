@@ -1,0 +1,204 @@
+{
+  "id": "dermatophytosis",
+  "name": "Dermatophytosis",
+  "ayurvedicName": "Dadru Kushtha",
+  "devanagari": "दद्रु कुष्ठ",
+  "icd10": "B-35",
+  "icd11": "1F28",
+  "icd11Tm2": "SN4",
+  "namcCode": "ED-4.3.6 Dadru-Kustha",
+  "sourceChapter": "Chapter 2: Dermatophytosis",
+  "description": "Superficial infection caused by a dermatophyte is known as Dermatophytosis or ringworm infection. As per Ayurveda, Dadru is characterised by Kanduh (itching sensation), Ragah (reddish nodules), Tamra Varna Pidika (copper coloured papule/eruptions), Udgata Mandalam/Utsanna Mandalata (elevated ring-shaped plaque), Dirgha Pratana (spreading out), Durvavat (resembling Durva), Atasi Kusuma Chhavi (resembling the flower of Atasi), Anushangi (chronic/associated over a long period). The Sthana (site of occurrence) of Dadrukustha is the fourth layer of skin and the doshic predominance is Kapha-Pitta.",
+  "sections": [
+    {
+      "id": "case-definition",
+      "title": "Case Definition",
+      "content": "Superficial infection caused by a dermatophyte is known as Dermatophytosis or ringworm infection. This term is a misnomer because worms are not involved. “Tinea”, the Latin name for worm, describes the serpentine appearance of the skin lesions. As per Ayurveda, Dadru is characterised by Kanduh [associated with itching sensation], Ragah [reddish nodules], Tamra Varna Pidika [copper coloured papule/eruptions], Udgata Mandalam/Utsanna Mandalata [elevated ring-shaped plaque], Dirgha Pratana [spreading out], Durvavat [resembling Durva], Atasi Kusuma Chhavi [resembling the flower of Atasi], Anushangi [chronic /associated over a long period].",
+      "originalText": "CASE DEFINITION | Superficial infection caused by a dermatophyte is known as Dermatophytosis or ringworm infection. This term is a misnomer because worms are not involved1. “Tinea”, the Latin name for worm, describes the serpentine appearance of the skin lesions2. | As per Ayurveda, Dadru is characterised by Kanduh [associated with itching sensation], Ragah [reddish nodules], Tamra Varna Pidika [copper coloured papule/eruptions], Udgata Mandalam/Utsanna Mandalata [elevated ring-shaped plaque], Dirgha Pratana [spreading out], Durvavat [resembling Durva], Atasi Kusuma Chhavi [resembling the flower of Atasi], Anushangi [chronic /associated over a long period]3",
+      "source": [{ "chapter": "Dermatophytosis", "section": "Case Definition", "printedPage": 33, "pdfPageIndex": 58 }],
+      "verificationStatus": "pending",
+      "verificationNotes": "Verify Devanagari terms against PDF page 58"
+    },
+    {
+      "id": "icd-codes",
+      "title": "ICD Codes & NAMC",
+      "content": "ICD-10 code: B-35. ICD-11 code: 1F28. ICD TM11 - SN4. National Ayurveda Morbidity Code: ED-4 - Kustha; ED-4.3 – Kshudra Kustha; ED-4.3.6 – Dadru-Kustha.",
+      "originalText": "ICD-10 code: B-35 | ICD-11 code: 1F28 | ICD TM11 - SN4 | National Ayurveda Morbidity Code | ED-4 - Kustha | ED-4.3 – Kshudra Kustha | ED-4.3.6 – Dadru-Kustha",
+      "source": [{ "chapter": "Dermatophytosis", "section": "ICD Codes", "printedPage": 33, "pdfPageIndex": 58 }],
+      "verificationStatus": "pending"
+    },
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "content": "Dermatophytes (keratinophilic fungi) are the most common cutaneous fungal infections seen in humans affecting skin, hairs and nails with a considerable morbidity. According to WHO, the prevalence rate of superficial mycotic infection worldwide has been found to be 20-25%. Its prevalence varies in different countries. It is more prevalent in tropical and subtropical countries like India where the heat and humidity are high for most part of the year. Community-based surveys and dermatology outpatient data show 20-30% prevalence, especially in humid regions. In some areas, up to 50-60% of dermatology OPD cases are due to dermatophytosis. An epidemic of recalcitrant dermatophyte infection has engulfed India and many parts of the world and the species that is dominant has been controversially named as Trichophyton indotinae. This is resistant to many front-line drugs. Factors implicated in recalcitrant dermatophytosis: Clinical type of tinea, Fungal species- Trichophyton indotinae, Host Immunity, Resistance. The new species Trichophyton indotinea has unique mechanisms of resistance and is fast becoming the most dominant variety of dermatophytosis in India. Chronic and recurrent cases have increased significantly in the last 5-10 years due to overuse of topical steroids and antifungal creams which have made them resistant to common antifungal drugs. Dermatophytosis is not life threatening, but it causes severe itching and discomfort, social embarrassment and stigma, sleep disturbances, work absenteeism and reduced productivity. Study using DLQI shows moderate to severe impact on quality of life in 40-60% of chronic/recurrent cases.",
+      "originalText": "INTRODUCTION (incidence/prevalence /morbidity/mortality/risk factors) | • Dermatophytes (keratinophilic fungi) are the most common cutaneous fungal infections seen in humans affecting skin, hairs and nails with a considerable morbidity.4 | • According to World Health Organization (WHO), the prevalence rate of superficial mycotic infection worldwide has been found to be 20-25%. | ... (PDF page 58) | • The new species Trichophyton Indotinea has unique mechanisms of resistance and is fast becoming the most dominant variety of dermatophytosis in India. | • Chronic and recurrent cases have increased significantly in the last 5-10 years due to overuse of topical steroids and antifungal creams which have made them resistant to common antifungal drugs. | • Dermatophytosis is not life threatening, but it causes severe itching and discomfort, social embarrassment and stigma, sleep disturbances, work absenteeism and reduced productivity. | • Study using DLQI (Dermatology Life Quality Index) shows moderate to severe impact on quality of life in 40-60% of chronic/ recurrent cases.10,11",
+      "source": [{ "chapter": "Dermatophytosis", "section": "Introduction", "printedPage": 33, "pdfPageIndex": 58 }, { "chapter": "Dermatophytosis", "section": "Introduction (cont.)", "printedPage": 34, "pdfPageIndex": 59 }],
+      "verificationStatus": "pending"
+    },
+    {
+      "id": "ayurvedic-correlation",
+      "title": "Ayurvedic Correlation",
+      "content": "All skin diseases in Ayurveda have been classified under the broad heading of “Kustha” which are further categorized into Mahakustha and Kshudrakustha. As per Acharyas, Dadru is a skin disease which is characterized by circular erythematous patches (Mandala), itching (Kandu), burning sensation (Daha), redness (Raga), and eruption of elevated lesions (Utsanna Mandala) - which mirror the clinical features of Tinea corporis and cruris. The Sthana (site of occurrence) of the Dadrukustha is the fourth layer of the skin and the doshic predominance is Kapha-Pitta. Acharya Charaka included Dadru among Kshudrakustha while Acharya Sushruta has classified Dadru among Mahakusthas. Acharya Vagbhata highlighted the Anushangi nature of Dadrukustha and the spread resembling Durva grass. The symptoms of Daha (Burning sensation) and Srava (discharge) are also associated symptoms of the disease. According to Dalhana, Dadru is of two types: Sita (white), Asita (black). Asita Dadru is considered difficult to treat due to its severity, deep tissue involvement, and chronic nature. In contrast, Sita Dadru is easily curable, superficial, and causes milder symptoms. Dadru Kushtha rarely has complications; improper treatment can lead to further Dosha Dushti, causing increased Dhatu involvement and chronicity. Dadru Kushtha generally has good prognosis.",
+      "originalText": "All skin diseases in Ayurveda have been classified under the broad heading of “Kustha” which are further categorized in to Mahakustha & Kshudrakustha12. As per Acharyas, Dadru is a skin disease which is characterized by circular erythematous patches (Mandala), itching (Kandu), burning sensation (Daha), redness (Raga), and eruption of elevated lesions (Utsanna Mandala) - which mirror the clinical features of Tinea corporis and cruris. The Sthana (site of occurrence) of the Dadrukustha is fourth layer of skin and the doshic predominance is kapha pitta.13 | According to Dalhana, Dadru is of two types: Sita (white), Asita (black)19. Asita Dadru is considered difficult to treat due to its severity, deep tissue involvement, and chronic nature. In contrast, Sita Dadru is easily curable, superficial, and causes milder symptoms. Dadru Kushtha rarely has complications; improper treatment can lead to further Dosha Dushti (vitiation of Dosha), causing increased Dhatu involvement and chronicity. Dadru Kushtha generally has good prognosis.",
+      "source": [{ "chapter": "Dermatophytosis", "section": "Ayurvedic Correlation", "printedPage": 34, "pdfPageIndex": 59 }, { "chapter": "Dermatophytosis", "section": "Ayurvedic Correlation (cont.)", "printedPage": 35, "pdfPageIndex": 60 }],
+      "verificationStatus": "pending"
+    },
+    {
+      "id": "clinical-presentation",
+      "title": "Clinical Presentation",
+      "content": "Typical Lesion: A typical lesion of dermatophytosis is an annular or arcuate plaque which spreads centrifugally (away from the centre). The edge is active, showing papulo-vesiculation, pustulation and scaling, while the centre is usually relatively clear. In chronic lesion there may be nodules, hyperpigmentation and even lichenification (thickening, hyperpigmentation and increased skin markings) in the centre. In India due to steroid abuse altered morphologies including Tinea incognito and Majocchi Granuloma are seen. Dadru typically presents with red, circular patches on the skin that are raised and itchy. The main symptoms include intense itching (kandu), reddish discoloration (raga), small eruptions or papules (pidaka), and ring-shaped raised lesions (utsanna mandala / Pari Mandala). These lesions often spread gradually and may resemble the Flax flower (Atasi Pushpa) or Bermuda Grass (Durva). In some cases, burning sensation, scaling, or oozing can occur.",
+      "originalText": "CLINICAL PRESENTATION 14,15,16 | Typical Lesion- | • A typical lesion of dermatophytosis is an annular or arcuate plaque which spreads centrifugally (away from the centre). | • The edge is active, showing papulo-vesiculation, pustulation and scaling, while the centre is usually relatively clear. | • In chronic lesion there may be nodules, hyperpigmentation and even lichenification... | • In India due to steroid abuse altered morphologies including Tinea incognito and Majocchi Granuloma are seen . Fig 1 | Figure 1: Follicular papules in a lesion of tinea corporis seen in Majocchi Granuloma | Dadru typically presents with red, circular patches on the skin that are raised and itchy. The main symptoms include intense itching (kandu), reddish discoloration (raga), small eruptions or papules (pidaka), and ring-shaped raised lesions (utsanna mandala Pari Mandala).",
+      "source": [{ "chapter": "Dermatophytosis", "section": "Clinical Presentation", "printedPage": 34, "pdfPageIndex": 59 }, { "chapter": "Dermatophytosis", "section": "Clinical Presentation (cont.)", "printedPage": 35, "pdfPageIndex": 60 }],
+      "verificationStatus": "pending"
+    },
+    {
+      "id": "clinical-examination",
+      "title": "Clinical Examination",
+      "content": "General Inspection: It includes observation of site(s) of infection, number, size and distribution of lesion. Common sites include groin, axillae, trunk, face, feet, hands, nails, scalp. Ask about onset, progression, recurrence, family history and steroid/antifungal use. 1. Local Examination - Table 1: Features (Shape: Annular (ring like), circular/oval; Border: Well defined, raised, erythematous, active margin; Colour: Redness; Distribution: Examine the location and extent of lesions; Centre: May appear normal or hypopigmented; Scaling: Present especially at margin; Itching: Usually intense pruritus, especially at night; Coalescence: Lesion may merge into each other in long standing cases; Lichenification: In chronic steroid modified cases; Inflammation: Degree of inflammation). 2. Region Specific Examination - Table 2: Tinea corporis, Tinea cruris, Tinea capitis, Tinea pedis, Tinea manuum, Tinea unguium, Tinea faciei, Tinea barbae clinical signs. Clinical examination of Dadru can be done by observing the signs and symptoms: 1. Intense itching (Kandu), 2. Reddish discolouration (Raga), 3. Small eruptions or papules (Pidaka), 4. Elevated, annular lesions (Utsanna mandala, Parimandalata), 5. Bluish colour (Atasi Pushpa Varna)/Coppery red colour (Tamra Varna), 6. Fast spreading (Spreading like Durva), 7. Anushangi (Chronic, Relapsing). Examination involves Darshana Pareeksha (Inspection), Sparshana Pareeksha (Palpation), and Prashana Pareeksha (Questioning).",
+      "originalText": "CLINICAL EXAMINATION11 | A thorough clinical examination helps to diagnose, classify and differentiate from other dermatoses. | General Inspection | ... | 1. Local Examination | Table 1: | Features | Description | ... | 2. Region Specific Examination | Table 2: | Type | Clinical Sign | ... | Clinical examination of Dadru can be done by observing the signs and symptoms of the disease i.e.; | 1. Intense itching (Kandu), | 2. Reddish discolouration (Raga), | ...",
+      "source": [{ "chapter": "Dermatophytosis", "section": "Clinical Examination", "printedPage": 35, "pdfPageIndex": 60 }, { "chapter": "Dermatophytosis", "section": "Clinical Examination (cont.)", "printedPage": 36, "pdfPageIndex": 61 }, { "chapter": "Dermatophytosis", "section": "Clinical Examination (cont.)", "printedPage": 37, "pdfPageIndex": 62 }],
+      "verificationStatus": "pending"
+    },
+    {
+      "id": "differential-diagnosis",
+      "title": "Differential Diagnosis",
+      "content": "Table 3: Differential Diagnosis — Tinea corporis vs Annular psoriasis, Atopic dermatitis, Erythema multiforme, Fixed drug eruption, Granuloma annulare, Lupus erythematosus, Nummular eczema, Pityriasis rosea, Seborrheic dermatitis, Secondary syphilis. Tinea cruris vs Candidal intertrigo, Erythrasma, Inverse psoriasis, Seborrheic dermatitis, Lichen simplex chronicus, Contact dermatitis. Tinea pedis vs Contact dermatitis, Dyshidrotic eczema, Foot eczema, Juvenile plantar dermatosis, Psoriasis. Tinea capitis vs Alopecia areata, Systemic lupus erythematosus (SLE), Atopic dermatitis, Bacterial scalp abscess, Psoriasis. Tinea unguium vs Other nail dystrophies. Pityriasis versicolor is a frequent, benign, superficial fungal infection of the skin belonging to Malassezia-related diseases. Table 4: Differential Diagnosis - Mandala Kushtha and Dadru Kushtha (Similarities: Shape of lesion Mandala/circular, Elevation Utsanna/raised, Itching Kandu; Dissimilarities: Colour - Śveta/Rakta/Śvetarakta vs Atasi-kusuma (bluish-grey), Rakta Pidaka, Tamra Pidaka). Table 5: Differential Diagnosis with other conditions having Kandu and Pidika — Vicharchika (Eczema), Paama (Scabies), Dadru (Tinea infection).",
+      "originalText": "DIFFERENTIAL DIAGNOSIS 20,21 | Table 3: | Differential diagnosis | Distinguishing features | ... (PDF pages 37-39) | Differential Diagnosis – Ayurveda | Table 4: Differential Diagnosis - Mandala Kushtha and Dadru Kushtha | ... | Table 5:. Differential Diagnosis with other conditions having Kandu and Pidika | Disease | Symptoms | Photograph | ...",
+      "source": [{ "chapter": "Dermatophytosis", "section": "Differential Diagnosis - Table 3", "printedPage": 37, "pdfPageIndex": 62 }, { "chapter": "Dermatophytosis", "section": "Differential Diagnosis - Ayurveda Table 4", "printedPage": 39, "pdfPageIndex": 64 }, { "chapter": "Dermatophytosis", "section": "Differential Diagnosis Table 5", "printedPage": 40, "pdfPageIndex": 65 }],
+      "verificationStatus": "pending"
+    },
+    {
+      "id": "investigations",
+      "title": "Investigations",
+      "content": "Table 6: Supportive Investigations — Essential: Potassium hydroxide (KOH) Scraping - Simple, inexpensive, quick and sensitive test. Interpretation of KOH mount: a) T. capitis: Branching hyphae, Spores within or around the hair. b) T. cruris: Branching hyphae. c) T. corporis: Branching hyphae. Advanced: Cultures (Cultures need to be done when clinical suspicion is strong and KOH mount is negative or when it is necessary to identify the fungal species; Sabouraud dextrose agar medium is used. Microscopic morphology of microconidia & macroconidia, along with surface topography & pigmentation.); Wood's Light (useful method of screening outbreaks of T. Capitis in schools; Wood's light fluoresces infected scalp hair in tinea capitis caused by certain species, not in all, but infected skin does not show fluorescence.); Dermatophyte test medium (Scales from the advancing border, subungual debris or affected hair embedded in the medium.); Histopathology special stains (Periodic acid-Schiff & Grocott's methenamine silver are used. Tissue by skin or nail biopsy are obtained.); Biopsy or Polymerase Chain Reaction (PCR) (They are used to confirm the types and extent of infection.). Table 7: Diagnostic Criteria — Tinea corporis/cruris (Annular or arcuate lesion with periphery showing papulo-vesiculation with itching and scaling); Tinea capitis (Pink, scaling itchy patches on the scalp skin and areas of hair loss due to the breakage of hair shafts, round scaling area of alopecia); Tinea unguium (Yellowish discolouration of nail plate which may show crumbling or is thickened. Asymmetrical involvement of few nails); Tinea pedis (Vesicular, with itchy vesicles occurring on the sides of the feet on a background of erythema, interdigital maceration); Tinea manuum (Dull red with silvery scales in the palmar creases).",
+      "originalText": "SUPPORTIVE INVESTIGATIONS 23,24 | Table 6: | Test | Description | Essential | Potassium hydroxide (KOH) Scraping- ... | Advanced | Cultures | ... | DIAGNOSTIC CRITERIA20,24,25 | Table 7: | Type | Description | Image | ...",
+      "source": [{ "chapter": "Dermatophytosis", "section": "Investigations - Table 6", "printedPage": 40, "pdfPageIndex": 65 }, { "chapter": "Dermatophytosis", "section": "Investigations - Table 7", "printedPage": 41, "pdfPageIndex": 66 }, { "chapter": "Dermatophytosis", "section": "Diagnostic Criteria", "printedPage": 41, "pdfPageIndex": 66 }],
+      "verificationStatus": "pending"
+    },
+    {
+      "id": "ayurvedic-assessment",
+      "title": "Ayurvedic Assessment",
+      "content": "Evaluation and Assessment: The Dermatology Life Quality Index (DLQI is a practical 10-question tool assessing the impact of skin disease on patients' lives, scored from 0 to 30, with higher scores indicating greater impairment. The Dermatology-specific Quality of Life (DSQL) instrument measures physical, psychological, and social limitations through 36 items, focusing on disease-specific impacts. Skindex-16 is a validated 16-item questionnaire scored on a 0–6 Likert scale, evaluating the effects of skin diseases on quality of life, with lower scores indicating better QoL. Table 8: Clinical Diagnostic criteria as per Ayurveda — 1. Kandu (itching/pruritus); 2. Raga (redness/erythema); 3. Atasi pushpavat pidika (popular rashes similar to flax flower); 4. Tamra varna pidika (copper-coloured papular rashes); 5. Visarpani pidika (diffused papular rashes); 6. Dirgha pratana (tendril-like papular rashes); 7. Unnata mandala – Pari Mandala (Annular lesions).",
+      "originalText": "Evaluation and Assessment | ... | Table 8: Clinical Diagnostic criteria as per Ayurveda | Sr. No | Sign & Symptoms | Interpretation | ...",
+      "source": [{ "chapter": "Dermatophytosis", "section": "Evaluation & Assessment", "printedPage": 42, "pdfPageIndex": 67 }],
+      "verificationStatus": "pending"
+    },
+    {
+      "id": "principles-management",
+      "title": "Principles of Management",
+      "content": "There is no specific treatment protocol prescribed in the Samhitas exclusively for Dadru, but the general therapeutic principles for Kustha are applicable to all types of Kustha. Acharya Charaka has mentioned that all the three doshas are involved in pathogenesis of all types of Kustha. Depending on the predominant Dosha, symptoms are manifested. Treatment should be decided on the basis of symptoms shown in the specific Kushtha. The Dosha presenting important and specific symptoms should be alleviated at first, followed by the treatment of the associated Dosha. When the lesions are limited to skin, it can be treated under the line of treatment of Kustha Roga and Rakta Pradoshaja Vikara.",
+      "originalText": "PRINCIPLES OF MANAGEMENT | - सिवंवरिियोषजंकुष्ठिं योषाणांतुबलाबलम् | ... | - ियोषस््स्पश्तेतकुष्ठषते ु विशतेषवलङगमदरिक्तम् | ... | There is no specific treatment protocol prescribed in the Samhitas exclusively for Dadru, | But the general therapeutic principles for Kustha are applicable to all types of Kustha. | Acharya Charaka has mentioned that all the three doshas are involved in pathogenesis of all types of Kustha. | Depending on the predominant Dosha, symptoms are manifested, | treatment should be decided on the basis of symptoms shown in the specific Kushtha. | The Dosha presenting important and specific symptoms should be alleviated at first, | followed by the treatment of the associated Dosha.29 | When the lesions are limited to skin, it can be treated under the line of treatment of Kustha Roga and Rakta Pradoshaja Vikara30",
+      "source": [{ "chapter": "Dermatophytosis", "section": "Principles of Management", "printedPage": 42, "pdfPageIndex": 67 }, { "chapter": "Dermatophytosis", "section": "Principles (cont.)", "printedPage": 43, "pdfPageIndex": 68 }],
+      "verificationStatus": "pending",
+      "verificationNotes": "Sanskrit verses have encoding issues; verify against PDF pages 67-68"
+    },
+    {
+      "id": "red-flags",
+      "title": "Red Flag Signs",
+      "content": "These signs should be assessed before initiating treatment: Secondary bacterial infection; Intractable alopecia cases causing permanent hair loss in tinea capitis; Uncontrolled Diabetes mellitus; Lower extremity cellulitis in cases of tinea pedis; Underlying severe immunodeficiency due to HIV/AIDS; Severe wide spread infection causing significant pain or inflammation or eczematization irrespective of treatment.",
+      "originalText": "Red Flag signs | These signs should be assessed before initiating treatment- | • Secondary bacterial infection. | • Intractable alopecia cases causing permanent hair loss in tinea capitis | • Uncontrolled Diabetes-mellitus | • Lower extremity cellulitis in cases of tinea pedis. | • Underlying severe immunodeficiency due to HIV/AIDS. | • Severe wide spread infection causing significant pain or inflammation or eczematization irrespective of treatment.",
+      "source": [{ "chapter": "Dermatophytosis", "section": "Red Flag Signs", "printedPage": 43, "pdfPageIndex": 68 }],
+      "verificationStatus": "pending"
+    },
+    {
+      "id": "preventive-treatment",
+      "title": "Preventive Treatment",
+      "content": "(A) Prevention Management: Avoidance of the etiological factors mentioned in Kustharoga nidana (food, dietary habits, lifestyle and behavioural characters) is the most important preventive measure. Other preventive measures: Following Dinacharya, Ritucharya, and Sadvritta. Yoga: Yoga practice plays a supportive role by: Boosting immunity; Reducing stress (which can worsen fungal infection); Enhancing blood circulation to the skin; Supportive detoxification and hormonal balance. Yoga can play a supportive role in prevention by enhancing overall immunity and promoting skin health. Regular practice of asanas like Shavasana, Padmasana, Sidhasana, Makarasana, and Suryanamaskara improves blood circulation and detoxification, helping to maintain healthy skin. Pranayama and meditation reduce stress, which is known to lower immunity and increase susceptibility to infections. Shat kriya and yoga nidra helps in deep relaxation for immune system repair.",
+      "originalText": "(A) Prevention Management: | Avoidance of the etiological factors mentioned in Kustharoga nidana (food, dietary habits, lifestyle and behavioural characters) is the most important preventive measure. | Other preventive measures: | • Following Dinacharya, Ritucharya, and Sadvritta. | Yoga | Yoga practice plays a supportive role by: | • Boosting immunity | • Reducing stress. (which can worsen fungal infection) | ...",
+      "source": [{ "chapter": "Dermatophytosis", "section": "Preventive Treatment", "printedPage": 43, "pdfPageIndex": 68 }],
+      "verificationStatus": "pending"
+    },
+    {
+      "id": "treatment-levels",
+      "title": "Treatment Levels",
+      "content": "At Level 1: [Solo Physician Clinic/Health & Health Clinic/PHC (Optimal Standard of treatment in situation where technology and resources are limited)] Dadru with mild to moderate severity, without signs of involvement of deeper tissues (Gambhir dhatu) and involvement of single or two doshas. Clinical Diagnosis: The diagnosis of tinea is primarily clinical and made after physical dermatological examination. However, some investigations, like a complete hemogram, and KOH mount may be done. Assessment according to Dermatology Life Quality Index (DLQI), Dermatology-specific Quality of Life (DSQL), SKINDEX-16. At level 1, diagnosis is based on clinical signs and symptoms i.e. Kandu (itching/pruritus), Raga (redness/erythema), Atasi pushpavat pidika (macular rashes similar to flax flower), Tamra varna pidika (copper-coloured macular rashes), Visarpanipidika (diffused macular rashes), Dirgha Pratana (tendril-like macular rashes), Unnata mandala – Pari Mandala (Annular lesions). Management: At level 1, curative intervention is solely based on the Shamana protocol or Mrudu Shodhana with Haritaki, Triphala, etc. Internal & External Ayurvedic formulations, as mentioned in Table No 9 can be used. At Level 2: (CHC/Small hospitals 10-20 bedded hospitals with basic facilities such as routine investigation, X-ray). Clinical Diagnosis: Same as level 1. The case referred from Level 1, or a fresh case must be evaluated thoroughly for any complications. Investigations: The diagnosis would be primarily clinical. However, some investigations may be necessary to investigate complications or exclude other differential diagnoses as follows: Renal function test; Fasting lipids, glucose, and thyroid functions. Management: If there is Bahudoshatwa, the patient may be admitted to a Level 2 facility for Snehapana, Shodhana, Rakta Mokshana, with constant monitoring and observation. Shodhana: Snehapana (internal oleation) with dosha specific sneha followed by Swedana (fomentation); Vamana (therapeutic emesis) in Kapha predominance and Urdhwa jatrugata symptoms; Virechana (therapeutic purgation) in Pitta predominance; Nasya (Nasal administration) can be effectively used in conditions affecting the scalp and to treat psychological factors; Rakta mokshana (Bloodletting) - Prachana in Alpadosha status; In Bahudosha, Siravedha is advised; Jalauka can be applied in children. Shamana (Dosha pacifying medicines): Ayurvedic formulations for Internal & External use can be selected from the list of medicines given in Table no: 9. Rasayana chikitsa. Ayurvediya Swastha Vritta is to be advised during and after treatment. At Level 3: (Ayush hospitals attached with teaching Institution, District Level/ Integrated/ State Ayush Hospitals). Clinical Diagnosis: Same as levels 1 and 2. Confirm diagnosis and severity with the help of investigations given below: Specimen culture; Wood light examination; Dermatophyte test medium; Histopathology special stains. Management: Purification or Other Procedures (As per applicability): As per level 2. Preferable and Restricted Diet & Lifestyle: As mentioned in Level 1. Follow Up: Once in every 15 days or as needed, for effective management of the condition.",
+      "originalText": "At Level 1: [Solo Physician Clinic/Health & Health Clinic/PHC ... | Management | At level 1, curative intervention is solely based on the Shamana protocol or Mrudu Shodhana with Haritaki, Triphala, etc. Internal & External Ayurvedic formulations, as mentioned in Table No 9 can be used. | At Level 2: (CHC/Small hospitals 10-20 bedded hospitals ... | Management: If there is Bahudoshatwa, the patient may be admitted to a Level 2 facility for Snehapana, Shodhana, Rakta Mokshana, with constant monitoring and observation. | Shodhana: | • Snehapana (internal oleation) with dosha specific sneha followed by Swedana (fomentation) | ... | At Level 3: (Ayush hospitals attached with teaching Institution, District Level/ Integrated/ State Ayush Hospitals) | ...",
+      "source": [{ "chapter": "Dermatophytosis", "section": "Level 1 Treatment", "printedPage": 46, "pdfPageIndex": 71 }, { "chapter": "Dermatophytosis", "section": "Level 2 Treatment", "printedPage": 47, "pdfPageIndex": 72 }, { "chapter": "Dermatophytosis", "section": "Level 2 Treatment (cont.)", "printedPage": 48, "pdfPageIndex": 73 }, { "chapter": "Dermatophytosis", "section": "Level 3 Treatment", "printedPage": 49, "pdfPageIndex": 74 }],
+      "verificationStatus": "pending"
+    },
+    {
+      "id": "pathya-apathya",
+      "title": "Pathya-Apathya",
+      "content": "Table 10: Pathya-Apathya (Do's & Don'ts) for Kushtha (Skin Disorders). Pathya/Do's: 1. Laghu anna (Light food); 2. Tikta shaka (green leafy vegetables); 3. Ghrita (Ghee); 4. Mudga (Green gram); 5. Aadaki (Pigeon pea); 6. Yava (barley); 7. Godhooma (wheat); 8. Madhu (Honey); 9. Sali (Rice); 10. Karkati (Cucumber); 11. Triphala (Combination of Haritaki, Bibhitaki and Amalaki); 12. Patola (Snake gourd); 13. Kakamachi (Black night shade); 14. Nimbapatra (Neem leaves); 15. Lasuna (garlic); 16. Punarnava (spreading hogweed); 17. Khadira (Black catechu); 18. Tila Taila (gingelly oil). Apathya/Don'ts: 1. Dugdha (milk); 2. Dadhi (curd); 3. Kulatha (horse gram); 4. Masha (black gram); 5. Nishpava (green peas); 6. Ikshu (sugarcane); 7. Amla Rasa (sour fruits); 8. Virudha Ahara (incompatible food); 9. Adhyasana (taking food before the earlier food gets digested); 10. Ajeerna (indigestion); 11. Vishamasana (untimely food); 12. Vidahi (burning sensation), vishtambhi and Abhishyandi ahara; 13. Matsya (fish); 14. Guda (jaggery); 15. Tila (sesame); 16. Mulaka (Radish). Vihara-Apathya: 1. Vegavaraodha (Suppression of natural urges); 2. Atapaseva (Over exposure to Sun); 3. Drinking cold water after direct exposure to the sun and after exertion; 4. Consuming food before the complete digestion of the previous meal; 5. Day sleep; 6. Stress; 7. Doing exercise or over exertion immediately after heavy meals; 8. Over exertion after Snehapana & Vamana; 9. Sudden change from cold to heat or heat to cold without following the rules of gradual change; 10. Sudden change from Santarpana to Apatarpana & Vice-versa; 11. Improper administration of Snehapana and Panchakarma Procedures.",
+      "originalText": "Preferable and Restricted Diet & Lifestyle | Table 10: Pathya-Apathya (Do's & Don'ts) for Kushtha* (Skin Disorders)60,61 | Pathya/ Do's | Apathya / Don'ts | ... (PDF page 47) | Vihara- Apathya | ... (PDF page 47) | *These are general pathya-apathya guidelines to be followed in skin diseases. However, they may be tailored on a case-to-case basis, taking into account the patient's prakriti, type of Kustha, seasonal variations, and other relevant factors.",
+      "source": [{ "chapter": "Dermatophytosis", "section": "Pathya-Apathya - Table 10", "printedPage": 47, "pdfPageIndex": 72 }, { "chapter": "Dermatophytosis", "section": "Pathya-Apathya (cont.)", "printedPage": 48, "pdfPageIndex": 73 }],
+      "verificationStatus": "pending"
+    },
+    {
+      "id": "follow-up",
+      "title": "Follow Up",
+      "content": "Follow Up: Once in every 15 days or as needed, for effective management of the condition. (Applies to Level 1, Level 2, and Level 3.)",
+      "originalText": "Follow Up: Once in every 15 days or as needed, for effective management of the condition.",
+      "source": [{ "chapter": "Dermatophytosis", "section": "Follow Up", "printedPage": 47, "pdfPageIndex": 72 }],
+      "verificationStatus": "pending"
+    },
+    {
+      "id": "referral-criteria",
+      "title": "Referral Criteria",
+      "content": "Level 1 Referral Criteria: No response at all after 2-3 weeks of treatment period; Uncontrolled comorbidities like diabetes mellitus, hypertension etc.; Evidence of an increase in severity/complications; Diagnostic uncertainty; Substantial impact on their quality of life and activities of daily living. Level 2 Referral Criteria: Same as mentioned earlier at level 1, plus Nail/scalp involvement, kerion; No response to 4-6 weeks of treatment; Any other complications that threaten the life of the patient; Patients with weak immune system such as those suffering from HIV/AIDS. Level 3 Referral Criteria: Same as mentioned earlier at Level 2; Occurrence of acute and severe medical conditions requiring conventional intervention.",
+      "originalText": "Referral Criteria | • No response at all after 2-3 weeks of treatment period. | • Uncontrolled comorbidities like diabetes mellitus, hypertension etc. | • Evidence of an increase in severity/complications | • Diagnostic uncertainty. | • Substantial impact on their quality of life and activities of daily living. | At Level 2: ... Referral Criteria | • Same as mentioned earlier at level 1, plus | • Nail/scalp involvement, kerion. | • No response to 4-6 weeks of treatment. | • Any other complications that threaten the life of the patient. | • Patients with weak immune system such as those suffering from HIV/AIDS | At Level 3: ... Referral Criteria | • Same as mentioned earlier at Level 2 | • Occurrence of acute and severe medical conditions requiring conventional intervention.",
+      "source": [{ "chapter": "Dermatophytosis", "section": "Referral Criteria - Level 1", "printedPage": 47, "pdfPageIndex": 72 }, { "chapter": "Dermatophytosis", "section": "Referral Criteria - Level 2", "printedPage": 48, "pdfPageIndex": 73 }, { "chapter": "Dermatophytosis", "section": "Referral Criteria - Level 3", "printedPage": 49, "pdfPageIndex": 74 }],
+      "verificationStatus": "pending"
+    },
+    {
+      "id": "algorithm",
+      "title": "Clinical Algorithm",
+      "content": "Algorithm of Treatment Process for Dadru Kushtha (Dermatophytosis): The original PDF page (index 75) contains the algorithm but the extracted text is mirrored/reversed due to PDF encoding. A faithful static representation or the original PDF page should be used for verification. The algorithm follows the Level 1 → Level 2 → Level 3 structure with Shamana at Level 1 and Shodhana at Levels 2-3.",
+      "originalText": "PDF page index 75 contains mirrored/garbled algorithm text. Could not be accurately extracted.",
+      "source": [{ "chapter": "Dermatophytosis", "section": "Algorithm", "printedPage": 50, "pdfPageIndex": 75 }],
+      "verificationStatus": "needsReview",
+      "verificationNotes": "Algorithm page extracted as mirrored/garbled text. Must verify against original PDF page 75 (printed page 50). Use static representation or original PDF."
+    },
+    {
+      "id": "general-instructions",
+      "title": "General Instructions & Hygiene",
+      "content": "Keep skin dry and clean, especially in areas like skin folds, armpits, and groin areas. Hand Hygiene: Washing hands frequently with soap and water, especially after touching potentially contaminated surfaces or individuals. Don't share towels, clothing, razors, and personal care items. Foot Hygiene: Wear breathable shoes and moisture-wicking socks, especially in warm or humid weather. Dry feet thoroughly, particularly between the toes, after showering or swimming. Avoid Walking Barefoot in Public Areas. Clothing Choices: Opt for loose-fitting, breathable clothing made of natural fibers like cotton, which can help prevent moisture buildup. Allow shoes to dry out completely between uses to prevent fungal growth. Nail Hygiene: Keep nails short and clean, and avoid biting or scratching the skin, especially if you have an existing fungal infection. Hygiene in Communal Areas: Wash exercise clothes after each use.",
+      "originalText": "General Instructions | • Keep skin dry and clean, especially in areas like skin folds, armpits, and groin areas. | Hand Hygiene: | • Washing hands frequently with soap and water, especially after touching potentially contaminated surfaces or individuals. | • Don't share towels, clothing, razors, and personal care items. | Foot Hygiene: | • Wear breathable shoes and moisture-wicking socks, especially in warm or humid weather. | • Dry feet thoroughly, particularly between the toes, after showering or swimming. | • Avoid Walking Barefoot in Public Areas: | Clothing Choices: | • Opt for loose-fitting, breathable clothing made of natural fibers like cotton, which can help prevent moisture buildup. | • Allow shoes to dry out completely between uses to prevent fungal growth. | Nail Hygiene: | • Keep nails short and clean, and avoid biting or scratching the skin, especially if you have an existing fungal infection. | Hygiene in Communal Areas: | • Wash exercise clothes after each use.",
+      "source": [{ "chapter": "Dermatophytosis", "section": "General Instructions", "printedPage": 47, "pdfPageIndex": 72 }],
+      "verificationStatus": "pending"
+    }
+  ],
+  "treatmentLevels": [
+    {
+      "id": "dermatophytosis-level-1",
+      "name": "Level 1 - Solo Physician Clinic / PHC",
+      "indications": "Dadru with mild to moderate severity, without signs of involvement of deeper tissues (Gambhir dhatu) and involvement of single or two doshas.",
+      "clinicalContext": "Curative intervention solely based on Shamana protocol or Mrudu Shodhana with Haritaki, Triphala, etc.",
+      "internalMedicines": [],
+      "externalMedicines": [],
+      "shodhana": ["Mrudu Shodhana with Haritaki, Triphala"],
+      "shamana": ["Internal & External formulations from Table 9"],
+      "source": [{ "chapter": "Dermatophytosis", "section": "Level 1 Treatment", "printedPage": 46, "pdfPageIndex": 71 }],
+      "verificationStatus": "pending"
+    },
+    {
+      "id": "dermatophytosis-level-2",
+      "name": "Level 2 - CHC / Small Hospital (10-20 beds)",
+      "indications": "Cases referred from Level 1 or fresh cases needing evaluation for complications.",
+      "clinicalContext": "Shamana as well as Shodhana Chikitsa for Bahudoshatwa. Snehapana, Swedana, Vamana, Virechana, Nasya, Rakta mokshana.",
+      "internalMedicines": [],
+      "externalMedicines": [],
+      "shodhana": ["Snehapana", "Swedana", "Vamana", "Virechana", "Nasya", "Rakta mokshana (Prachana/Siravedha/Jalauka)"],
+      "shamana": ["Formulations from Table 9"],
+      "source": [{ "chapter": "Dermatophytosis", "section": "Level 2 Treatment", "printedPage": 48, "pdfPageIndex": 73 }],
+      "verificationStatus": "pending"
+    },
+    {
+      "id": "dermatophytosis-level-3",
+      "name": "Level 3 - Ayush Hospital / Tertiary Care",
+      "indications": "Cases needing confirmation of diagnosis and severity with advanced investigations.",
+      "clinicalContext": "Purification or other procedures as per level 2. Investigations: Specimen culture, Wood light examination, Dermatophyte test medium, Histopathology special stains.",
+      "internalMedicines": [],
+      "externalMedicines": [],
+      "shodhana": ["As per level 2"],
+      "shamana": ["As per level 2"],
+      "source": [{ "chapter": "Dermatophytosis", "section": "Level 3 Treatment", "printedPage": 49, "pdfPageIndex": 74 }],
+      "verificationStatus": "pending"
+    }
+  ],
+  "medicines": [],
+  "glossaryTerms": [],
+  "pathwayId": "dermatophytosis-pathway",
+  "verificationStatus": "pending",
+  "verificationNotes": "Full chapter extracted. Algorithm page (idx 75) is mirrored/garbled - needs static representation."
+}

@@ -1,0 +1,133 @@
+{
+  "site": {
+    "title": "Ayurvedic Dermatology Clinical Reference",
+    "tagline": "Standard Treatment Guidelines on Management of Dermatological Disorders in Ayurveda System of Medicine",
+    "shortTitle": "AyurDerma STG",
+    "subtitle": "A clinical reference for Ayurvedic physicians based on the Ministry of AYUSH Standard Treatment Guidelines (June 2026)"
+  },
+  "nav": {
+    "home": "Home",
+    "diseases": "Diseases",
+    "medicines": "Medicines",
+    "glossary": "Glossary",
+    "about": "About this Site",
+    "search": "Search",
+    "language": "Language",
+    "english": "English",
+    "hindi": "हिन्दी",
+    "bookmarks": "Bookmarks",
+    "doctorReview": "Doctor Review"
+  },
+  "hero": {
+    "title": "Ayurvedic Dermatology Guidelines",
+    "description": "Chapter-wise clinical reference covering Dermatitis, Dermatophytosis, Psoriasis, Urticaria and Vitiligo — with Ayurvedic correlation, treatment levels, medicines, pathya-apathya and referral criteria.",
+    "start": "Browse Diseases",
+    "searchPlaceholder": "Search diseases, medicines, Sanskrit terms…"
+  },
+  "disclaimer": {
+    "title": "Important Clinical Disclaimer",
+    "text": "This website is an unofficial, independently compiled clinical reference based on the Ministry of AYUSH publication \"Standard Treatment Guidelines on Management of Dermatological Disorders in Ayurveda System of Medicine\" (June 2026). It is NOT an official Ministry of AYUSH or Government of India website, and it is not affiliated with the Ministry of AYUSH.\n\nThe content is intended for registered Ayurvedic medical practitioners and healthcare professionals only. It is not a substitute for professional clinical judgment, diagnosis, or treatment. Dosages, duration, anupana and treatment decisions must be individualized by the attending physician. Where the guideline does not specify a value, this site displays \"Not specified in this chapter\" — no dosages or durations have been invented.\n\nAll extracted clinical records carry verificationStatus = \"pending\" and await review by a qualified Ayurvedic physician. The original PDF remains the authoritative source. Every clinical recommendation on this site is traceable to the original PDF (chapter, section, printed page, PDF page index).\n\nBy using this site, you agree to verify all information against the original guideline before clinical application.",
+    "ack": "I understand and accept the disclaimer"
+  },
+  "disease": {
+    "overview": "Overview",
+    "caseDefinition": "Case Definition",
+    "icdCodes": "ICD Codes & NAMC",
+    "ayurvedicCorrelation": "Ayurvedic Correlation",
+    "introduction": "Introduction",
+    "pathogenesis": "Pathogenesis & Etiology",
+    "samprapti": "Samprapti (Pathogenesis)",
+    "clinicalPresentation": "Clinical Presentation",
+    "clinicalExamination": "Clinical Examination",
+    "differentialDiagnosis": "Differential Diagnosis",
+    "investigations": "Investigations",
+    "diagnosticCriteria": "Diagnostic Criteria",
+    "principlesManagement": "Principles of Management",
+    "redFlags": "Red Flag Signs",
+    "prevention": "Preventive Treatment",
+    "shodhana": "Shodhana (Curative)",
+    "shamana": "Shamana Treatment",
+    "pathyaApathya": "Pathya-Apathya",
+    "level1": "Level 1 Treatment",
+    "level2": "Level 2 Treatment",
+    "level3": "Level 3 Treatment",
+    "followUp": "Follow Up",
+    "referral": "Referral Criteria",
+    "algorithm": "Clinical Algorithm",
+    "generalInstructions": "General Instructions",
+    "sourceTraceability": "Source Traceability",
+    "notSpecified": "Not specified in this chapter.",
+    "verificationPending": "Awaiting doctor review — verification pending.",
+    "treatingPhysicianDecides": "The physician should decide dose and duration based on clinical findings.",
+    "levels": {
+      "l1": "Level 1 — Solo Physician Clinic / Health & Wellness Clinic / PHC",
+      "l2": "Level 2 — CHC / Small Hospital (10–20 beds)",
+      "l3": "Level 3 — Ayush Hospital / Tertiary Care"
+    }
+  },
+  "medicines": {
+    "title": "Medicines Index",
+    "subtitle": "All medicines across the five disease chapters, with dosage form, dose, frequency, duration and anupana as stated in the guideline.",
+    "disease": "Disease Chapter",
+    "medicine": "Medicine / Formulation",
+    "form": "Dosage Form",
+    "dose": "Dose",
+    "frequency": "Frequency",
+    "duration": "Duration",
+    "anupana": "Anupana",
+    "source": "Source (Chapter · Section · Printed Page · PDF Index)",
+    "notSpecified": "Not specified in this chapter.",
+    "allChapters": "All Chapters"
+  },
+  "glossary": {
+    "title": "Ayurvedic Glossary",
+    "subtitle": "Sanskrit and Ayurvedic terminology used in the guideline, preserved as written in the source PDF.",
+    "term": "Term",
+    "meaning": "Meaning",
+    "source": "Source"
+  },
+  "search": {
+    "title": "Search",
+    "results": "Results",
+    "noResults": "No results found.",
+    "placeholder": "Search diseases, medicines, Sanskrit terms…",
+    "in": "in"
+  },
+  "bookmarks": {
+    "title": "Bookmarks",
+    "empty": "No bookmarks yet. Open a disease or medicine page and tap the bookmark icon to save it.",
+    "add": "Bookmark",
+    "added": "Bookmarked",
+    "removed": "Removed"
+  },
+  "doctorReview": {
+    "title": "Doctor Review Preparation",
+    "subtitle": "Content inventory for review by qualified Ayurvedic physicians.",
+    "intro": "All extracted records on this site are initially marked verificationStatus = \"pending\". The document below lists every extracted record, medicine, dosage, treatment level, shodhana procedure, pathya-apathya item, referral criterion, algorithm step and extraction uncertainty for doctor review.",
+    "download": "Download Doctor Review Document",
+    "verificationStatus": "Verification Status",
+    "pending": "Pending",
+    "verified": "Verified",
+    "uncertainties": "Extraction Uncertainties & Missing Information",
+    "sanskritNote": "Sanskrit / Ayurvedic terminology is preserved exactly as extracted from the PDF. Some Devanagari text shows encoding issues in extraction — the original PDF remains authoritative.",
+    "pageNote": "Source traceability uses printed page numbers as they appear in the PDF, plus the PDF page index (0-based) for exact location.",
+    "disclaimer": "This review document is an internal clinical accuracy tool and does not imply endorsement by the Ministry of AYUSH or the Government of India."
+  },
+  "about": {
+    "title": "About this Site",
+    "source": "Source Guideline",
+    "sourceText": "Standard Treatment Guidelines on Management of Dermatological Disorders in Ayurveda System of Medicine, Ministry of AYUSH, Government of India, June 2026.",
+    "coverage": "Disease Chapters Covered",
+    "coverageList": "Dermatitis (Vicharchika) · Dermatophytosis (Dadru Kushtha) · Psoriasis · Urticaria (Sheetapitta/Udarda) · Vitiligo (Shvitra/Kilasa)",
+    "dataSource": "Data Source",
+    "dataText": "Content extracted locally from the Ministry of AYUSH PDF and stored as JSON files. Client-side search; bookmarks stored in your browser's localStorage. No login, no accounts, no backend, no AI.",
+    "pdfNote": "The source PDF is not hosted or redistributed on this site. See the About page for bibliographic information and the authorized source link.",
+    "disclaimerLine": "Unaffiliated with the Ministry of AYUSH or the Government of India. For registered Ayurvedic medical practitioners only."
+  },
+  "footer": {
+    "unofficial": "This site is NOT an official Ministry of AYUSH or Government of India website.",
+    "forDoctors": "For registered Ayurvedic medical practitioners only.",
+    "verify": "Verify against the original PDF before clinical use.",
+    "credits": "Built as a clinical reference from the Ministry of AYUSH Standard Treatment Guidelines (June 2026)."
+  }
+}
