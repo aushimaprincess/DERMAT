@@ -1,0 +1,40 @@
+PSORIASIS
+ICD 10 code: L40
+ICD 11 code: EA90
+ICD11 TM 2 code : SN4A
+National Ayurveda Morbidity Code
+ED-4 कुष्ठम्
+ED-4.2.4 मण्डलकुष्ठठः/कफजकुष्ठठः
+ED-4.3.1 एककुष्ठठः
+ED-4.2.7 वस्धमठः
+ED-4.3.4 विपादिका
+ED-4.2.6 पुण्डरीकठः
+ED-4.2.3 उिमु बर-कुष्ठठः/पवैवत्क-कुष्ठठः
+CASE DEFINITION 1, 2
+Psoriasis is a common, chronic, inflammatory and proliferative condition of the skin and may
+be associated with systemic manifestations in many organ systems. The most characteristic
+lesions are red, scaly, sharply demarcated, indurated plaques, particularly over the extensor
+surfaces and scalp. It can cause itching, irritation, burning and stinging, and the extent and
+severity vary enormously over time and between individuals.
+Table 01: Ayurveda Disease definition:
+ED-4 करुष्ठम् Integumentary Disease
+ED-4.2.4 मण्डलकुष्ठठः/कफजकुष्ठठः the disorder is characterized by वनिग्धठः [smooth/unctuous /oily],
+गुरु [heaviness], उतसते्धठः [raised], श्लक्णप्चि्तठः [glossy margins],
+वसथरप्चि्तठः [hard margins], पीतप्चि्तठः [yellowish margins],
+शुकलािभासी [whitish appearance], रक्तािभासी [reddish
+appearance], शुकलरयोमराजीस्ततठः [covered with whitish hairs],
+बहुस्ािठः [excessive/copious discharge], बहलस्ािठः [profuse
+discharge], वपव्छिलस्ािठः [slimy discharge], बहुकलतेिठः [excessive
+moistness/soddening], बहुकण्डू [excessive itching], बहुकृवमठः
+[excess worms], सक्तगवतठः [slow spread], सक्तसमुतथानठः [slow
+onset], सक्तभतेिी [slow onset of complications]
+ED-4.3.1 एककुष्ठठः the disorder is characterized by असितेिनम् [anhidrosis/ lack of
+sweating], महािसतु/ महाश्र्म् [broad based], मतस्शकलयोपमम्
+[looks like the scales of a fish]
+ED-4.2.7 वस्धमठः the disorder is characterized by अलाबुपुषपसङकाशम् [resembling
+flowers of a gourd – white in colour], परुषठः [rough/dry],
+अरुणठः [reddish in color], विशीणचि [broken, shattered], बवहसतनूवन
+[thin outside], अ्तठःवनिग्धावन [unctuous inside], शुकलरक्तािभासठः
+[whitish and reddish tinge], बहूवन [numerous], अलपितेिना
+[mild pain], अलपकण्डू [less itching], अलपिाहठः [less burning
+Standard Treatment Guidelines in Ayurveda on Dermatological Disorders 57
